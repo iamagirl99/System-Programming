@@ -1,0 +1,7 @@
+And they have no disregard for human life.
+0 1 3 6 10 15
+1 -806
+13 3
+mfcdhg
+3 2 4 6 1 5
+secret_phase_answer (optional)
